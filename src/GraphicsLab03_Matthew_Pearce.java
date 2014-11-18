@@ -5,7 +5,11 @@ import java.awt.*;
 import java.applet.*;
 import java.util.*; 
 																
+<<<<<<< HEAD
 //random comment
+=======
+//random coment 3
+>>>>>>> origin/master
 public class GraphicsLab03_Matthew_Pearce extends Applet
 {
 
