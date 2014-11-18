@@ -5,7 +5,7 @@ import java.awt.*;
 import java.applet.*;
 import java.util.*; 
 																
-//random coment 3
+//random comment
 public class GraphicsLab03_Matthew_Pearce extends Applet
 {
 
