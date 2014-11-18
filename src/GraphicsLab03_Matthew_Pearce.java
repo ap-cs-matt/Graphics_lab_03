@@ -8,7 +8,7 @@ import java.util.*;
 
 public class GraphicsLab03_Matthew_Pearce extends Applet
 {
-
+//random
 //-----------Random Color----------//
 	
 	public static Color randomColor()
